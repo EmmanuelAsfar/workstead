@@ -2,7 +2,7 @@
 
 ## Context
 
-Read `docs/START-HERE.md`, `docs/STATUS.md`, and the relevant requirements and decisions first.
+Read `docs/CODEX-HANDOFF.md`, `docs/START-HERE.md`, `docs/STATUS.md`, and the relevant requirements and decisions first.
 This is a personal exploratory project, not an Amundi deployment.
 All repository content, code, identifiers, issues and commit messages must be English.
 Conversation with Emmanuel may remain French.
@@ -31,3 +31,7 @@ A PASS needs commands, date, results and scope in the qualification report.
 
 Update `docs/STATUS.md` after each delivery batch: completed work, remaining work, blockers and next action.
 The repository is the project record. A conversation alone is not an approved decision.
+
+## Current collaboration boundary
+
+The owner requires interactive, step-by-step BMAD product work. Earlier broad autonomy or headless-work recommendations in historical drafts are superseded. Invoke the installed bmad-help workflow to establish the next step; do not treat existing drafts or archived reviews as approved specifications. Do not begin implementation before the agreed product and architecture gates. Historical material under _bmad-output/handoff-drafts is reference input only.

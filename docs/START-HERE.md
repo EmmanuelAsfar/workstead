@@ -16,9 +16,7 @@ The cloud setup script checks the baseline and provisions uv only if missing. It
 
 ## Resume prompt
 
-Read AGENTS.md and docs/STATUS.md. Use the installed BMAD 6.12.0 skills to review the draft product brief and PRD.
-Preserve established decisions, distinguish proposals from validated outcomes, and keep repository artifacts in English.
-Use French for conversation. Do not install or deploy the product before the relevant qualification plan is established.
+Read AGENTS.md, docs/CODEX-HANDOFF.md and docs/STATUS.md. Follow the installed bmad-help workflow. Existing planning documents and archived revisions are unapproved inputs. Explain the current stage and recommend the next BMAD step, then guide Emmanuel interactively. Do not advance specifications or implementation autonomously. Use French for conversation and English for repository artifacts. Preserve accepted work in _bmad-output and report its GitHub commit or PR link.
 
 ## BMAD
 

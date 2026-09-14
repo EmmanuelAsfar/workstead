@@ -1,28 +1,20 @@
 # Project status
 
-Date: 2026-09-14.
+Date: 2026-09-14. Current entry point: [Codex handoff](CODEX-HANDOFF.md).
 
-## Completed locally
+## Completed
 
-- Workstead project foundation, BMAD 6.12.0 core/bmm and 29 Codex skills.
-- English draft brief, PRD, architecture, contracts, backlog and qualification plan.
-- Baseline checks: 16 unique requirements and valid qualification references.
-- Cloud setup script and handoff instructions; product tests remain NOT RUN.
+- Published repository foundation, official BMAD 6.12.0 core/bmm, 29 Codex skills, draft planning inputs and deterministic baseline CI.
+- Bootstrap CI run 34867180158 passed for commit 76b19c5; product behavior was not tested.
+- Owner reports connecting GitHub and creating a Codex cloud environment from the web; environment configuration has not been independently inspected.
+- Preserved previously uncommitted work as historical, unapproved inputs under _bmad-output/handoff-drafts/2026-09-14/.
 
-## Publication
+## Current boundaries
 
-The owner created EmmanuelAsfar/workstead and explicitly authorized publication while public.
-Bootstrap published to main as 76b19c5dcd60e5ed47631c43a739738015afbe0d. GitHub Actions run 34867180158 passed.
-Issues #1 (PRD review), #2 (runtime qualification) and #3 (cloud connection) are open.
-The intended product process is documented in docs/DELIVERY-WORKFLOW.md; workflow stages remain pending.
-Repository visibility can be changed later by the owner; no visibility-changing tool is available in this session.
+The owner stopped autonomous specification progression and wants interactive BMAD, one agreed step at a time. Earlier autonomy overrides are superseded. Neither the original drafts nor archived PRD revision 0.2 is approved. BMAD finalization, architecture qualification and implementation readiness are incomplete.
 
-## Pending
-
-- Connect the repository to a Codex cloud environment using the authenticated UI.
-- Complete BMAD requirements/architecture review; current planning documents are drafts.
-- Qualify Paperclip/OpenClaw. No runtime installation, paid media calls or deployment has occurred.
+No product implementation, runtime installation, paid provider operation or deployment has occurred. All runtime qualifications remain NOT RUN. Paperclip/OpenClaw is a candidate. Provider choices, pilot scope and repository-owned license remain open.
 
 ## Next action
 
-Follow docs/START-HERE.md in Codex cloud. Review the existing planning inputs before selecting implementation work.
+In the new Codex session, read AGENTS.md and docs/CODEX-HANDOFF.md; follow the installed bmad-help workflow. Explain the unfinished stage and recommended re-entry point, then discuss the next product decision with Emmanuel before advancing specifications. Preserve active planning artifacts in _bmad-output and publish agreed work with explicit GitHub links.
