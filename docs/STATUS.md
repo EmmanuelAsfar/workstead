@@ -12,7 +12,9 @@ Date: 2026-09-14.
 ## Publication
 
 The owner created EmmanuelAsfar/workstead and explicitly authorized publication while public.
-This bootstrap is prepared for transfer to main. The remote commit and Actions results are the publication evidence.
+Bootstrap published to main as 76b19c5dcd60e5ed47631c43a739738015afbe0d. GitHub Actions run 34867180158 passed.
+Issues #1 (PRD review), #2 (runtime qualification) and #3 (cloud connection) are open.
+The intended product process is documented in docs/DELIVERY-WORKFLOW.md; workflow stages remain pending.
 Repository visibility can be changed later by the owner; no visibility-changing tool is available in this session.
 
 ## Pending
