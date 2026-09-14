@@ -1,0 +1,12 @@
+{
+  "project": "workstead",
+  "bmad_method": "6.12.0",
+  "modules": [
+    "core",
+    "bmm"
+  ],
+  "coding_tool": "codex",
+  "communication_language": "French",
+  "artifact_language": "English",
+  "product_runtimes": "not yet qualified"
+}

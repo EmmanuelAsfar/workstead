@@ -1,0 +1,15 @@
+node_modules/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+__pycache__/
+*.pyc
+.venv/
+dist/
+coverage/
+artifacts/
+*.log
+.DS_Store
+_bmad/**/*.user.toml
